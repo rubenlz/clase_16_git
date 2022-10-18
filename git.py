@@ -1,0 +1,2 @@
+def chau():
+    print("chau")
